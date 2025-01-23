@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @madisonthompson27
-- 👀 I’m interested in ... software development that focuses on bettering technology in medicine and biomedical engineering
-- 🌱 I’m currently learning ... java!
-- 💞️ I’m looking to collaborate on ... data science projects, anything to help me learn + prepare for a future in research science 
-- 📫 How to reach me ... discord @maddie#2999, methompson1@aggies.ncat.edu
+- 📚 I'm studying... Computer Science and Science, Technology, and Society with minors in Biological Sciences and Genetics at NC State University
+- 👀 I’m interested in ... software development that focuses on accelerating what is possible in medicine by reimagining the life sciences
+- 🌱 I’m currently learning ... operating systems (C), software engineering (Java, react, SpringBoot, node.js)
+- 💞️ I’m looking to collaborate on ... data science or bioinformatics projects with an emphasis on social factors and wet lab
+- 📫 How to reach me ... discord @maddie#2999, methom22@ncsu.edu
