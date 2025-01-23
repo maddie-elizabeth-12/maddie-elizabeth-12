@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madisonthompson27
 - 📚 I'm studying... Computer Science and Science, Technology, and Society with minors in Biological Sciences and Genetics at NC State University
 - 👀 I’m interested in ... software development that focuses on accelerating what is possible in medicine by reimagining the life sciences
-- 🌱 I’m currently learning ... operating systems (C), software engineering (Java, react, SpringBoot, node.js)
+- 🌱 I’m currently learning ... operating systems (C, x86-64), software engineering (Java, React, SpringBoot, node.js)
 - 💞️ I’m looking to collaborate on ... data science or bioinformatics projects with an emphasis on social factors and wet lab
 - 📫 How to reach me ... discord @maddie#2999, methom22@ncsu.edu
